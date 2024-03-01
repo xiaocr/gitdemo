@@ -1,0 +1,4 @@
+void main()
+{
+	loopDelay(1000);
+}
